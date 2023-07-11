@@ -20,12 +20,14 @@ function OrderSummary() {
             <h2 className="font-extrabold text-slate-800">Annual Plan</h2>
             <p>$59.99/year</p>
           </div>
-          <a className="ml-auto text-blue-600 underline">Change</a>
+          <a className="ml-auto cursor-pointer text-blue-600 underline">
+            Change
+          </a>
         </div>
-        <button className="mb-5 w-full rounded-xl bg-blue-700 p-5 font-bold text-white drop-shadow-xl">
+        <button className="mb-5 w-full rounded-xl bg-blue-700 p-5 font-bold text-white drop-shadow-xl transition-colors hover:bg-blue-800">
           Proceed to Payment
         </button>
-        <a className="font-bold">Cancel Order</a>
+        <a className="cursor-pointer font-bold">Cancel Order</a>
       </div>
     </div>
   );
