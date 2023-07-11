@@ -20,11 +20,11 @@ function OrderSummary() {
             <h2 className="font-extrabold text-slate-800">Annual Plan</h2>
             <p>$59.99/year</p>
           </div>
-          <a className="ml-auto cursor-pointer font-bold text-blue-600 underline transition-colors hover:text-violet-700 ">
+          <a className="ml-auto cursor-pointer font-bold text-[#5448bb] underline transition-colors hover:text-[#766cf1] ">
             Change
           </a>
         </div>
-        <button className="mb-5 w-full rounded-xl bg-blue-700 px-5 py-3 font-bold text-white drop-shadow-xl transition-colors hover:bg-violet-500">
+        <button className="mb-5 w-full rounded-xl bg-[#382ae1] px-5 py-3 font-bold text-white drop-shadow-xl transition-colors hover:bg-[#766cf1]">
           Proceed to Payment
         </button>
         <a className="cursor-pointer font-bold hover:text-slate-800">
