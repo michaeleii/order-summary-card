@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-react-tailwindcss-SEqgfIOUQF](https://www.frontendmentor.io/solutions/order-summary-component-react-tailwindcss-SEqgfIOUQF)
 - Live Site URL: [https://michaellei-order-summary.netlify.app/](https://michaellei-order-summary.netlify.app/)
 
 ## Built with
